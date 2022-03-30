@@ -89,7 +89,7 @@ void add()
  		printf("\nEnter Roll no for record\n");
 		scanf("%d",&s.roll_no);
 		printf("Enter Name\n");
-		scanf("%9s",s.name);
+		scanf("%s",s.name);
 		printf("Enter Age\n");
 		scanf("%d",&s.age);
 		printf("Enter Maths Marks\n");
