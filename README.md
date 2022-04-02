@@ -7,6 +7,6 @@ Codacy Badge
 
 Codiga 
 
-https://api.codiga.io/project/32482/score/svg
+[![Codiga Score]](https://api.codiga.io/project/32482/score/svg)]
 
-https://api.codiga.io/project/32482/status/svg
+[![Codiga Badge]](https://api.codiga.io/project/32482/status/svg)]
