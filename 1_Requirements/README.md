@@ -38,6 +38,7 @@ How
 •	By creating a system which will provide all the functionalities required like adding, deleting, modifying, searching and displaying of student records.
 
 Details Requirements
+
 HIGH LEVEL REQUIREMENTS
 
 ![image](https://user-images.githubusercontent.com/71258149/161395380-85601eb8-a0ca-4510-ba88-6629c9873f71.png)
