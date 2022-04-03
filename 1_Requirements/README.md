@@ -11,18 +11,29 @@ Student Record Management System (SRS), sometimes also referred to as Student In
 FEATURES
 
 Add Student details 
+
+
 Modify Student details 
+
+
 Delete Student details 
+
 Search Student details 
+
 Display all Student details 
+
 Display Marksheets
 
 BENEFITS
 
 User friendly 
+
 Keep track of students
+
 Less paperwork
+
 Organized manner
+
 
 SOWT ANALYSIS
 
