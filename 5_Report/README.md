@@ -10,4 +10,4 @@ Student Record Management System (SRS), sometimes also referred to as Student In
 Conclusion
 
 
-This project C solves the issue effectively. The user can update all the required details.This project is user friendly. Using this project the user can keep a record of students and maintain the record in a simple and oraginsed manner. 
+This project C solves the issue effectively. The user can update all the required details.This project is user friendly. Using this project the user can keep a record of students and maintain the record in a simple and oraginsed manner. This projects works in windows Os and linux Os.
